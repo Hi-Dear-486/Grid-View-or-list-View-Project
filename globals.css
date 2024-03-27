@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.item {
+  @apply h-[180px] w-[0px] shadow-[rgba(0,0,0,0.35)_0px_5px_15px];
+}
